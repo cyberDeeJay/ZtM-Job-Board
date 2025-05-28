@@ -1,0 +1,16 @@
+{
+  "name": "Daniel Jimenez",
+  "img": "https://media.licdn.com/dms/image/v2/D5603AQH1uAWyNgEzQw/profile-displayphoto-shrink_800_800/B56ZPQRSIHHQAg-/0/1734366012401?e=1753920000&v=beta&t=JWCUE_jssMvVi9ho2NJUDQhHFfa5UdY4FdNgP2Sj4yI",
+  "email": "daniboi66@gmail.com",
+  "links": {
+    "website": "https://dani6.pythonanywhere.com/",
+    "linkedin": "https://www.linkedin.com/in/daniel-jimenez-82128b56/",
+    "github": "https://github.com/cyberDeeJay"
+  },
+  "jobTitle": "Web Developer",
+  "location": {
+    "city": "Los Angeles",
+    "state": "California",
+    "country": "United States"
+  }
+}
